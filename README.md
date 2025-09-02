@@ -1,6 +1,6 @@
-# PhishSleuth: AI-Powered Phishing and Spam Detection
+# AI_based_CyberPhish_Detector: AI-Powered Phishing and Spam Detection
 
-PhishSleuth is a comprehensive security suite designed to protect users from online threats such as phishing attacks and spam messages. It combines a browser extension for real-time phishing detection with a powerful backend API for link analysis and a separate module for SMS and email spam classification.
+AI_based_CyberPhish_Detector is a comprehensive security suite designed to protect users from online threats such as phishing attacks and spam messages. It combines a browser extension for real-time phishing detection with a powerful backend API for link analysis and a separate module for SMS and email spam classification.
 
 ## Features
 
